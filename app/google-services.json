@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273574226327",
+    "firebase_url": "https://spendabot.firebaseio.com",
+    "project_id": "spendabot",
+    "storage_bucket": "spendabot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273574226327:android:819711fe2db16cae",
+        "android_client_info": {
+          "package_name": "quadrant.gametime.com.spendabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273574226327-95udsrearnctvd4v3vt33iq8o8t6m86m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quadrant.gametime.com.spendabot",
+            "certificate_hash": "7fa16c217dd857b44c37a2d699621fecdf10027f"
+          }
+        },
+        {
+          "client_id": "273574226327-v7mj3b37u329t1g5u2fjb128399841jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9VeKzxx9BDutjeGV2Ys5r-PFlMM7y-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273574226327-v7mj3b37u329t1g5u2fjb128399841jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

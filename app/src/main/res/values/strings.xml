@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SpendaBot</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Save Money!</string>
+    <string name="slide_1_desc">The easiest way to save your money, in an interactive way!</string>
+
+    <string name="slide_2_title">Keep Track</string>
+    <string name="slide_2_desc">Keep a track of the payments that you do!</string>
+
+    <string name="slide_3_title">Fulfill your dreams</string>
+    <string name="slide_3_desc">Save money and fulfill the dreams you could not afford!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_text">New to this platform?\nClick here to <b>Register</b>....</string>
+    <string name="password_hint">Password</string>
+    <string name="login_heading">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="minimum_password_length">The minimum password length is 6 characters</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="already_registered">Already registered. Proceed to Login!</string>
+    <string name="register_user_text">Not a member? Get registered now!</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_string">Profile</string>
+    <string name="budget_and_exp">Budgets and Expenses</string>
+    <string name="analyze">Analyze</string>
+    <string name="settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="accounts">Accounts</string>
+    <string name="day_of_mnt">Present Day</string>
+    <string name="expenses">Expenses</string>
+    <string name="budgets">Budgets</string>
+    <string name="no_budget_set">No budget has been set till now</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="verification_code">Verify Number</string>
+    <string name="verify">Verify</string>
+</resources>

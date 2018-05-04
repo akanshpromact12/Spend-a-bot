@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:layout_centerInParent="true"
+    tools:context="quadrant.gametime.com.spendabot.LoginPage.Main.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/appName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/app_name"
+            android:textSize="32sp"
+            android:textColor="#fff"
+            android:fontFamily="casual"/>
+
+        <ImageView
+            android:id="@+id/piggyImage"
+            android:layout_below="@+id/appName"
+            android:layout_marginTop="32dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/ic_piggy_bank" />
+
+        <TextView
+            android:id="@+id/registerText"
+            android:layout_below="@+id/piggyImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register_text"
+            android:textColor="@android:color/white"
+            android:fontFamily="casual"
+            android:layout_marginTop="32dp"
+            android:textSize="18sp"
+            android:textAlignment="center"/>
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/loginButton"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/login"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:fontFamily="casual"
+        android:background="@drawable/shadow_gradient"
+        android:padding="12dp" />
+
+</RelativeLayout>
